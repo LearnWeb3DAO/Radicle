@@ -56,7 +56,7 @@ Very similar to how IPFS shares data, participants in the Radicle Network share 
 In Radicle, repositories are called **projects**, which are replicated and shared by **peers**. If you've ever used torrents, the word 'peers' may sound familiar. Essentially they are people or organizations either looking for data they are interested in, or making data they already have publicly available for other peers. 
 
 
-If you want to go even deeper into how exactly Radicle Link works, [you can find a more in-depth documentation on the specification here](https://docs.radicle.xyz/docs/understanding-radicle/how-it-works)
+If you want to go even deeper into how exactly Radicle Link works, [you can find a more in-depth documentation on the specification here](https://docs.radicle.xyz/understanding-radicle/how-it-works)
 
 ## Radicle vs GitHub
 
