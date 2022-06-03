@@ -97,7 +97,7 @@ Then, the original repository can track your changes if they add your fork as a 
 
 That will let them automatically track your changes and generate patches which can be merged into the original repo from your fork automatically.
 
-## Radicle <3 Ethereum
+## Radicle ❤️ Ethereum
 
 Radicle has an optional integration with Ethereum. Users can opt-in to the integration which would allow them to have unique global names for your profiles and organizations by using ENS, own decentralized organizations on Radicle by having members be linked to an Ethereum wallet, and be able to accept contributions in crypto for your open source projects.
 
